@@ -1,0 +1,3 @@
+[1005/000211.674:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Tentative d’accès à un processus en cours d’arrêt. (0xc000010a)
+[1005/000211.693:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[1005/000211.698:ERROR:process_info.cc(551)] ReadProcessData failed
